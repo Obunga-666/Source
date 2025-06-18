@@ -1,7 +1,7 @@
 -Created by real_sillycat-
 
 # Full Roblox script infected code
-# ⚠️THE SCRIPT MIGHT BE RISKY⚠️
+# ⚠️THE SCRIPT MIGHT BE RISKY  ⚠️
 Script with comments:
 ```
 -- Get the HTTP service to send HTTP requests
